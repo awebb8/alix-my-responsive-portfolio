@@ -1,0 +1,43 @@
+
+body {
+    background-image: url("/Users/alix/gt-ft/gt-atl-fsf-ft-08-2020-u-c/02-CSS-Bootstrap/02-Homework/Assets/Images/ignasi_pattern_s.png");
+    background-color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-primary {
+    background-color: teal!important;
+}
+
+.navbar-brand {
+    font-family: 'DM Serif Display', serif;
+}
+
+h1 {
+    color: teal;
+    font-family: 'DM Serif Display', serif;
+}
+
+.container {
+    margin-top: 85px;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+.card {
+    padding: 30px;
+}
+
+#footer {
+    padding-top: 10px;
+    clear: both;
+    text-align: center;
+    color: darkgrey;
+    background-color: rgb(112, 112, 112);
+    border-top: solid;
+    border-top-width: thick;
+    border-top-color: teal;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
